@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Urukubarr.Web/Urukubarr.Web.csproj" />
+  </Folder>
+</Solution>
