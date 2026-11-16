@@ -1,0 +1,1 @@
+# aspnetcore-request-trace-serilog
